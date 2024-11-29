@@ -17,14 +17,6 @@
             android:layout_height="200dp"
             android:background="#E0F7FA"
             android:layout_marginBottom="16dp">
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/ic_map_pin"
-                android:tint="#0288D1"
-                android:layout_gravity="center"
-                android:contentDescription="Mapa" />
         </FrameLayout>
 
         <!-- Botón Reportar Actividad Ilegal -->
@@ -35,7 +27,6 @@
             android:backgroundTint="#F44336"
             android:textColor="#FFFFFF"
             android:text="Reportar Actividad Ilegal"
-            android:drawableLeft="@drawable/ic_alert_triangle"
             android:drawablePadding="8dp"
             android:padding="12dp"
             android:layout_marginBottom="16dp" />
